@@ -33,7 +33,7 @@ This return ten person with full property:
      */
     fakePeople.generate(10)
 </br>
-This return one person with firstName and address:
+This return ten person with firstName and address:
 
 [All property](#property)
 
