@@ -37,7 +37,7 @@ This return one person with firstName and address:
 
 [All property](#property)
 
-    fakePeople.generate(10)
+    fakePeople.generate(10,['firstName','address'])
 
 #### <a name="property">All property</a>
 For now, only top-level properties are available to be passed as argument
